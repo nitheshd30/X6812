@@ -140,7 +140,7 @@ RECOVERY_LIBRARY_SOURCE_FILES += \
     $(TARGET_OUT_SHARED_LIBRARIES)/libpuresoftkeymasterdevice.so
 
 # Properties
-TARGET_SYSTEM_PROP += $(DEVICE_PATH)/system.prop
+#TARGET_SYSTEM_PROP += $(DEVICE_PATH)/system.prop
 
 # Encryption
 PLATFORM_SECURITY_PATCH := 2099-12-31
