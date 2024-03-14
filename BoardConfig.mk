@@ -5,7 +5,25 @@
 # SPDX-License-Identifier: Apache-2.0
 #
 
-DEVICE_PATH := device/infinix/X6812
+SHRP_DEVICE_CODE := X6812
+
+SHRP_PATH := device/infinix/X6812
+
+SHRP_MAINTAINER := nitheshd30
+
+SHRP_DEVICE_TYPE := A/B
+
+SHRP_AB := true
+
+SHRP_EDL_MODE := 0
+
+SHRP_INTERNAL := /sdcard
+
+SHRP_EXTERNAL := /external_sd
+
+SHRP_OTG := /usb_otg
+
+SHRP_FLASH := 1
 
 # For building with minimal manifest
 ALLOW_MISSING_DEPENDENCIES := true
