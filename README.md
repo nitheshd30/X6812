@@ -1,1 +1,1 @@
-## Infinix X6812 twrp tree
+## Infinix X6812 shrp tree (only for testing)
