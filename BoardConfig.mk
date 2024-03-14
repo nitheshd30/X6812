@@ -13,6 +13,8 @@ SHRP_MAINTAINER := nitheshd30
 
 SHRP_DEVICE_TYPE := A/B
 
+SHRP_REC_TYPE := Treble
+
 SHRP_AB := true
 
 SHRP_EDL_MODE := 0
