@@ -192,3 +192,7 @@ SHRP_FLASH := 1
 SHRP_DARK := true
 # Shrp official
 SHRP_OFFICIAL := true
+
+# Selinux
+SEPOLICY_IGNORE_NEVERALLOWS := true
+SELINUX_IGNORE_NEVERALLOWS := true
