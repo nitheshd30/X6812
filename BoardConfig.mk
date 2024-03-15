@@ -178,7 +178,7 @@ SHRP_DEVICE_TYPE := A/B
 # Recovery Type (It can be treble,normal,SAR) [Only for About Section] *
 SHRP_REC_TYPE := Treble
 
-SHRP_AB := true
+#SHRP_AB := true
 # Notch
 SHRP_NOTCH := true
 # EDL
