@@ -185,4 +185,4 @@ SHRP_FLASH := 1
 # Dark Mode
 SHRP_DARK := true
 # Shrp official
-SHRP_OFFICIAL := true
+#SHRP_OFFICIAL := true
